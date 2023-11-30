@@ -30,7 +30,7 @@ st.set_page_config(
 
 # dashboard title
 #st.title("Real-Time Fraud Detection Dashboard")
-st.markdown("<h1 style='text-align: center; color: black;'>HENDROISME</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>HENDROSTYLE</h1>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center; color: black;'>Real-Time Fraud Detection</h1>", unsafe_allow_html=True)
 
 # side-bar 
